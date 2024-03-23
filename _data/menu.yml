@@ -2,37 +2,19 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Open Source Contributions
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Codebase Revamp <a href='https://root.cern/doc/v630/group__roofit__dev__docs__ad.html'>Tutorial</a> for Root/RooFit (<a href='https://github.com/root-project/root/pull/14018'>PR14018</a>)      
+      - title: Doxygen <a href='https://cppinterop.readthedocs.io/en/latest/build/html/index.html'>Documentation</a>  for CppInterOp (<a href='https://github.com/compiler-research/CppInterOp/pull/85'>PR85</a>)
+      - title: Developer <a href='https://clang.llvm.org/docs/ClangRepl.html#capture-execution-results'>Documentation</a> for LLVM (<a href='https://reviews.llvm.org/D156858'>D156858</a>)
+      - title: Developer <a href='https://clad.readthedocs.io/en/latest/user/FloatingPointErrorEstimation.html'>Documentation</a> for Clad (<a href='https://github.com/vgvassilev/clad/pull/648'>PR648</a>)      
+      - title: Jekyll website update - <a href='https://compiler-research.org/research/'>Research</a> & <a href='https://compiler-research.org/projects/'>Projects</a> pages (<a href='https://github.com/compiler-research/compiler-research.github.io/pull/154'>PR154</a>)
+      - title: Student Dev <a href='https://compiler-research.org/stories/'>Success Stories</a> for Compiler Research Group (<a href='https://github.com/compiler-research/compiler-research.github.io/pull/110'>PR110</a>)
+      - title: Technical Blog <a href='https://blog.llvm.org/posts/2023-12-31-compiler-research-internships-2023/'>Post</a> for LLVM (<a href='https://github.com/llvm/llvm-blog-www/pull/49'>PR49</a>).
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: Social profiles
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: GitHub (@QuillPusher)
+        url: https://github.com/QuillPusher
+      - title: LinkedIn (sign in to view)
+        url: https://www.linkedin.com/in/quillpusher/
