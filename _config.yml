@@ -1,8 +1,9 @@
-title: Portfolio # name of the site
+title: Technical Writing Portfolio
 author: QuillPusher # name of site's author
 
 baseurl: ''
 url: quillpusher.github.io
+
 dependencies:
   - gem: github-pages
     version: '~> 231'
