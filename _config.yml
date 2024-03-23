@@ -3,6 +3,9 @@ author: QuillPusher # name of site's author
 
 baseurl: ''
 url: quillpusher.github.io
+dependencies:
+  - gem: github-pages
+    version: '~> 231'
 
 description: > # description of the site (multiple lines allowed)
   Technical Writing Porfolio
