@@ -8,7 +8,7 @@ entries:
       - title: Doxygen <a href='https://cppinterop.readthedocs.io/en/latest/build/html/index.html'>Documentation</a>  for CppInterOp (<a href='https://github.com/compiler-research/CppInterOp/pull/85'>PR85</a>)
       - title: Developer <a href='https://clang.llvm.org/docs/ClangRepl.html#capture-execution-results'>Documentation</a> for LLVM (<a href='https://reviews.llvm.org/D156858'>D156858</a>)
       - title: Developer <a href='https://clad.readthedocs.io/en/latest/user/FloatingPointErrorEstimation.html'>Documentation</a> for Clad (<a href='https://github.com/vgvassilev/clad/pull/648'>PR648</a>)      
-      - title: Jekyll website update - <a href='https://compiler-research.org/research/'>Research</a> & <a href='https://compiler-research.org/projects/'>Projects</a> pages (<a href='https://github.com/compiler-research/compiler-research.github.io/pull/154'>PR154</a>)
+      - title: Jekyll website <a href='https://compiler-research.org'>Design</a> and <a href='https://compiler-research.org/projects/'>Content</a> - (<a href='https://github.com/compiler-research/compiler-research.github.io/pull/154'>PR154</a>, <a href='https://github.com/compiler-research/compiler-research.github.io/pull/156#issuecomment-2009886575'>PR156</a> & <a href='https://github.com/compiler-research/compiler-research.github.io/pull/159'>PR159</a>)
       - title: Student Dev <a href='https://compiler-research.org/stories/'>Success Stories</a> for Compiler Research Group (<a href='https://github.com/compiler-research/compiler-research.github.io/pull/110'>PR110</a>)
       - title: Technical Blog <a href='https://blog.llvm.org/posts/2023-12-31-compiler-research-internships-2023/'>Post</a> for LLVM (<a href='https://github.com/llvm/llvm-blog-www/pull/49'>PR49</a>).
 
