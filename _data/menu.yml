@@ -2,6 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+
+  - title: My personal skills repository
+    entries:
+      - title: <a href='https://github.com/QuillPusher/skills/tree/main/anything-to-html'>Anything to HTML</a>
+      - title: <a href='https://github.com/QuillPusher/skills/tree/main/provenance-html-report'>AI Docs Provenance Report</a>
+      
   - title: Open Source Contributions
     entries:
       - title: Codebase Revamp <a href='https://root.cern/doc/v630/group__roofit__dev__docs__ad.html'>Tutorial</a> for Root/RooFit (<a href='https://github.com/root-project/root/pull/14018'>PR14018</a>)      
